@@ -1,6 +1,6 @@
 //! # Zeta4G Driver
 //!
-//! A Rust driver for [Zeta4G](https://github.com/zeta9044/zeta4g) graph database
+//! A Rust driver for the [Zeta4G](https://zeta4.net) graph database
 //! with full Bolt protocol support.
 //!
 //! ## Features

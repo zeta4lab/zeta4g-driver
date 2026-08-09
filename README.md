@@ -61,4 +61,11 @@ async fn main() -> Result<(), Box<dyn std::error::Error>> {
 
 ## License
 
-MIT License
+[Apache License 2.0](LICENSE)
+
+Copyright 2026 **Zeta4Lab**
+
+- Representative: Kangyou Choi
+- https://zeta4.net
+
+See [NOTICE](NOTICE) for attribution details.
